@@ -6,7 +6,7 @@
 ## About me:
 
 - ⭐Electronic Engineer/TEC
-- 📲Data analyst
+- 📲Data Engineer
 - 
 ## Skills:
 
