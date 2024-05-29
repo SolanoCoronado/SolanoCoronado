@@ -6,8 +6,8 @@
 ## About me:
 
 - ⭐Electronic Engineer/TEC
-- 📲Data Engineer
-- 
+- Business informatics/UCR
+- 📲Data Engineering focused
 ## Skills:
 
 ### ⚙️ &nbsp;GitHub Analytics
