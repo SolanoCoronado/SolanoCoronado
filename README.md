@@ -5,8 +5,7 @@
 
 ## About me:
 
-- ⭐Electronic Engineer/TEC
-- ⭐Business informatics/UCR
+- ⭐Computing Engineer/TEC
 - 📲Data Engineering focused
 ## Skills:
 
