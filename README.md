@@ -5,7 +5,7 @@
 
 ## About me:
 
-- ⭐Computing Engineer/TEC
+- ⭐Software Engineer student/TEC
 - 📲Data Engineering focused
 ## Skills:
 
