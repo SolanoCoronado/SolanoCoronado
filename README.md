@@ -6,7 +6,7 @@
 ## About me:
 
 - ⭐Software Engineer student/TEC
-- 📲Data Engineering focused
+- 📲Cybersecurity focused
 ## Skills:
 
 ### ⚙️ &nbsp;GitHub Analytics
